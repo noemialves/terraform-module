@@ -3,8 +3,8 @@ zone1 = "us-east-1a"
 zone2 = "us-east-1b"
 
 ## BACKEND
-//bucket_name = "backend-noemi"
-//bucket_key = "terraform.tfstate"
+bucket_name = "backend"
+bucket_key = "terraform.tfstate"
 
 ##NETWORK - ID - REMOTE STATE
 vpc_id = ""
